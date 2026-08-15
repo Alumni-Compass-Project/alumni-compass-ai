@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "simple-peer": "^9.11.1",
+    "socket.io-client": "^4.8.3"
+  }
+}
